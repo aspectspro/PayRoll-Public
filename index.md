@@ -1,6 +1,6 @@
 ## AspectsPro
 
-Everything I do, I believe in going the extra mile, challenge the status quo, thinking differently. The way I am different is by creating products that are robust, beautifully designed, and easy to use. I just happen to write software. Want to try one?
+Everything I do, I believe in going the extra mile, challenge the status quo and think differently. The way I am different is by creating products that are robust, beautifully designed, and easy to use. I just happen to write software. Want to try one?
 
 ### PayRoll 2020
 
