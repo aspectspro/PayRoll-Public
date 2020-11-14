@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## AspectsPro
 
-You can use the [editor on GitHub](https://github.com/aspectspro/PayRoll-Public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Everything I do, I believe in going the extra mile, challenge the status quo, thinking differently. The way I am different is by creating products that are robust, beautifully designed, and easy to use. I just happen to write software. Want to try one?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PayRoll 2020
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are the kind of person who likes to have total control over every aspect of your life, then I have a product for you. You can calculate employee's taxes and manage salaries easily.
 
 ```markdown
 Syntax highlighted code block
