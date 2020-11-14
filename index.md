@@ -6,8 +6,8 @@ Everything I do, I believe in going the extra mile, challenge the status quo, th
 
 If you are the kind of person who likes to have total control over every aspect of your life, then I have a product for you. You can calculate employee's taxes and manage salaries easily.
 
-[Download for Windows](https://guides.github.com/features/mastering-markdown/).
+[Download for Windows](https://github.com/aspectspro/PayRoll-Public/releases/download/1.0.0-alpha-windows/AspectsProPayRoll-1.0.0-alpha-windows-installer.exe).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Leave a message on our [Facebook](https://www.facebook.com/aspectspro)
